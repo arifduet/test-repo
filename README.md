@@ -1,1 +1,1 @@
-This is my Testing ropository for lerning GIT
+This is my Testing ropository for lerning GIT and GitHub.
